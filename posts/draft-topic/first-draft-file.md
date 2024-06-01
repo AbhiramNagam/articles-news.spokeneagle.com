@@ -1,7 +1,7 @@
 ---
 title:  "Title - First Draft Article"
 date: 2024-06-1T021:45:32+05:30
-draft: false
+draft: true
 cover:
     image: "images/draft-topic/zaarzet.png"
     alt: "Zaarzet"
