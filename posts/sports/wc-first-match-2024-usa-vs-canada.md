@@ -1,6 +1,6 @@
 ---
 title:  "ICC Men's T20 World Cup: USA vs. Canada highlights"
-date:   2024-06-02T016:45:32+05:30
+date:   2024-06-02T16:45:32+05:30
 draft:  false
 cover:
     image:  "images/sports/t20-usa-vs-canada.jpg"
