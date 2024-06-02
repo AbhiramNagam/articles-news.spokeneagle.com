@@ -1,13 +1,13 @@
 ---
 title:  "ICC Men's T20 World Cup: USA vs. Canada highlights"
-date: 2024-06-02T016:45:32+05:30
-draft: false
+date:   2024-06-02T016:45:32+05:30
+draft:  false
 cover:
-    image: "images/sports/t20-usa-vs-canada.jpg"
-    alt: "t20-usa-vs-canada"
-tags: ["world cup","t20wc","mens cricket","usa vs canada","west indies vs papua new guinea"]
+    image:  "images/sports/t20-usa-vs-canada.jpg"
+    alt:    "t20-usa-vs-canada"
+tags:   ["world cup","t20wc","mens cricket","usa vs canada","west indies vs papua new guinea"]
 categories: ["cricket","sports"]
-showTOC: false
+showTOC:    false
 ---
 
 The **ICC Men's T20 World Cup** is off to an exhilarating start, captivating cricket fans worldwide. Let's dive into the latest updates and highlights:
