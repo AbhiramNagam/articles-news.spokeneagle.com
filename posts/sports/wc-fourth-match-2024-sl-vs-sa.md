@@ -41,7 +41,7 @@ The T20 World Cup opener between Sri Lanka and South Africa was a clash of forme
 
 ## **Match 5 Recap: Afghanistan vs. Uganda (AFG vs. UGA)**
 
-![x](t20-afg-vs-uganda.jpg)
+![t20 afg vs uganda](/images/sports/t20-afg-vs-uganda.jpg)
 
 In a battle of contrasting cricketing backgrounds, Afghanistan faced Uganda. Here's how it unfolded:
 
