@@ -1,5 +1,5 @@
 ---
-title:  "ICC Men's T20 World Cup: Sri Lanka vs. South africa highlights"
+title:  "ICC Men's T20 World Cup: Nepal vs. Netherlands highlights"
 date: 2024-06-05T10:25:32+05:30
 draft: false
 cover:
