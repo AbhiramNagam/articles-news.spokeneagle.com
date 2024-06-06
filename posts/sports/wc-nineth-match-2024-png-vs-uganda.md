@@ -3,8 +3,8 @@ title:  "ICC Men's T20 World Cup: Papua New Guinea vs. Uganda highlights"
 date: 2024-06-06T10:15:32+05:30
 draft: false
 cover:
-  image: "images/sports/t20-png-vs-uganda.jpg"
-  alt: "t20-png-vs-ugnada"
+  image: "images/sports/t20-png-vs-uganda.png"
+  alt: "t20-png-vs-uganda"
 tags: ["world cup","t20wc","mens cricket","png vs uganda","papua new guinea vs uganda", "australia vs oman"]
 categories: ["cricket","sports"]
 showTOC: false
