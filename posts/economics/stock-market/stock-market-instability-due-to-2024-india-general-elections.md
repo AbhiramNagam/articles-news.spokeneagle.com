@@ -12,18 +12,31 @@ showTOC: false
 
 # Stock Market Instability Due to Political Chaos
 
-The share markets witnessed a massive jump in early trade, on exit poll predictions of continuity and political stability. The 30-share Sensex increased over 2,000 points this morning while the 50-stock Nifty recorded its biggest jump in four years during the market opening. The rally added ₹12.48 lakh crore wealth to the market cap of BSE stocks.
+The share markets witnessed a massive jump in early trade on exit poll predictions of continuity and political stability. The 30-share Sensex increased over 2,000 points this morning, while the 50-stock Nifty recorded its biggest jump in four years during the market opening. The rally added ₹12.48 lakh crore to the market cap of BSE stocks.
 
-Driven by these exit poll predictions, the Indian stock market saw a sharp rally on Monday, 3rd June, as the Sensex and Nifty 50 both soared over 3% each. Subsequently, on the next day i.e. election results day on June 4, the stock markets witnessed a massive crash and the Sensex and Nifty 50 tanked nearly 6% each.
+## Market Reactions
 
-The India Today-Axis MyIndia poll predicted 361-401 seats for the BJP-led NDA. However, the actual final results show the BJP-led NDA leading/winning on 292 seats, a discrepancy of 23-37%.
+Driven by these exit poll predictions, the Indian stock market saw a sharp rally on Monday, 3rd June, as the Sensex and Nifty 50 both soared over 3% each. Subsequently, on the next day, i.e., election results day on June 4, the stock markets witnessed a massive crash, and the Sensex and Nifty 50 tanked nearly 6% each.
 
-“A spike of almost 3.5% on Monday after exit polls followed just the next day with a crash of about 5.8% after the announcement of election results is unnatural and is an indication of how inflated and off-the-mark the exit polls were."
+## Discrepancies in Exit Polls
+
+The India Today-Axis MyIndia poll predicted 361-401 seats for the BJP-led NDA. However, the actual final results showed the BJP-led NDA leading/winning in 292 seats, a discrepancy of 23-37%.
+
+> "A spike of almost 3.5% on Monday after exit polls followed just the next day with a crash of about 5.8% after the announcement of election results is unnatural and is an indication of how inflated and off-the-mark the exit polls were."
+
+## Reasons for Market Fluctuations
 
 On the back of exit polls, stock markets spiked massively on Monday. After the results, the stock market crashed to an unprecedented level on Tuesday. Most people think of the following reasons for the stock market rise and fall:
 
 1. **Intentional inflation of exit poll numbers by India Today-Axis MyIndia**
-2. **Entities linked to the BJP, India Today, or Axis My India booking profits on 3rd June**
+2. **Entities linked to the BJP, India Today, or Axis MyIndia booking profits on 3rd June**
 3. **The same entities indulging in short selling on 4th June when the stock markets crashed on the announcement of election results**
 
-Among the 30 Sensex companies, State Bank of India tanked over 10 percent, while Power Grid and NTPC plunged nearly 10 percent. Also, Adani Ports, Adani Enterprises, Power Grid, Shriram Finance, and NTPC are among the top performers that led the market rally with significant gains.
+## Impact on Major Companies
+
+Among the 30 Sensex companies, State Bank of India tanked over 10 percent, while Power Grid and NTPC plunged nearly 10 percent. Also, Adani Ports, Adani Enterprises, Power Grid, Shriram Finance, and NTPC were among the top performers that led the market rally with significant gains.
+
+---
+_Stay tuned for more such news_
+- Follow us on **X** : [@SpokenEagleNews](https://x.com/SpokenEagleNews?t=YP2NMSxVIYUbD9VoQukz8g&s=08)
+---
