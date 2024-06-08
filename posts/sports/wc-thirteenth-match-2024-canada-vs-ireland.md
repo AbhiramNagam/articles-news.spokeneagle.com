@@ -19,8 +19,8 @@ The **ICC Men's T20 World Cup** is off to an exhilarating start, captivating cri
 In a thrilling encounter at the ICC Men's T20 World Cup 2024, Canada clinched a memorable victory against Ireland by 12 runs in their Group A match held in New York.
 
 #### Match 13 : Canada vs. Ireland
-- **Date:** 7th June 2024
 - **Venue:** New York
+- **Result:** Canada won by 12 runs
 
 #### 1st Innings (Canada):
 Canada set a target of 138 runs, scoring 137 for 7 in their 20 overs.
