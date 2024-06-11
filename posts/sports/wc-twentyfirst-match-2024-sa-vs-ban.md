@@ -1,5 +1,5 @@
 ---
-title:  "ICC Men's T20 World Cup: India vs. Pakistan Highlights"
+title:  "ICC Men's T20 World Cup: South Africa vs. Bangladesh Highlights"
 date: 2024-06-11T09:00:32+05:30
 draft: false
 cover:
