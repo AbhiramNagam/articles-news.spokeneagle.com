@@ -12,6 +12,8 @@ showTOC: false
 
 ## Let's dive into Apple's WWDC 2024 Highlights
 
+---
+
 ### Apple Intelligence
 Apple introduced a new personal AI called **Apple Intelligence** for iPhone, iPad, and Mac. This AI includes features like:
 - **Image Playground**: An on-device AI image generator that allows users to create images directly on their devices without needing an internet connection.
@@ -82,3 +84,13 @@ Apple introduced a new personal AI called **Apple Intelligence** for iPhone, iPa
 - **Redesigned Photos App**: The Photos app receives its biggest-ever redesign, automatically organizing the library by helpful topics and making it easier to find photos quickly. This update enhances the overall user experience by providing a more intuitive and organized way to manage photos.
 - **Messages Enhancements**: iPadOS 18 introduces new ways to stay connected in Messages. Users can now express themselves with delightful images created just for them, craft Genmoji for conversations, and revisit favorite moments with memory movies. These features make communication more engaging and personalized.
 - **Safari Updates**: Safari in iPadOS 18 enables distraction-free browsing with new privacy controls. Users can enjoy a more focused and secure browsing experience with enhanced privacy features.
+
+
+**For more related information, visit the official** [apple website](https://www.apple.com/)
+
+---
+
+_Stay tuned for more such updates_
+- Follow us on **X** : [@SpokenEagleNews](https://x.com/SpokenEagleNews?t=YP2NMSxVIYUbD9VoQukz8g&s=08)
+
+---
