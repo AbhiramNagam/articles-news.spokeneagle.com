@@ -12,6 +12,8 @@ showTOC: false
 
 ## Let's dive into Apple's WWDC 2024 Highlights
 
+---
+
 ### Apple Intelligence
 Apple introduced a new personal AI called **Apple Intelligence** for iPhone, iPad, and Mac. This AI includes features like:
 - **Image Playground**: An on-device AI image generator that allows users to create images directly on their devices without needing an internet connection.
