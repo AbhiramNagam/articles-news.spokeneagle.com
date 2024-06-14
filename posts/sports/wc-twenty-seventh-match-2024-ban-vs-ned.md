@@ -5,7 +5,7 @@ draft: false
 cover:
   image: "images/sports/t20-ban-vs-ned.jpg"
   alt: "t20-ban-vs-ned"
-tags: ["world cup","t20wc","mens cricket","ind vs usa","india vs usa"]
+tags: ["world cup","t20wc","mens cricket","ban vs ned","bangladesh vs netherlands"]
 categories: ["cricket","sports"]
 showTOC: false
 ---
