@@ -14,7 +14,7 @@ The **ICC Men's T20 World Cup** is off to an exhilarating start, captivating cri
 
 ---
 
-Certainly! Here are the highlights from the T20 World Cup 2024 match between Bangladesh and the Netherlands:
+Here are the highlights from the T20 World Cup 2024 match between Bangladesh and the Netherlands:
 
 ### Match 27: Bangladesh vs. Netherlands Highlights
 
