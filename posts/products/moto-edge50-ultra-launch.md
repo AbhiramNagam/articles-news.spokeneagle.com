@@ -9,7 +9,7 @@ tags: ["tech", "mobiles", "motorola", "moto", "moto edge 50 ultra"]
 categories: ["mobiles","tech"]
 showTOC: false
 ---
-Source: [motorla](https://www.motorola.in/)
+Source: [motorola](https://www.motorola.in/)
 
 ---
 
