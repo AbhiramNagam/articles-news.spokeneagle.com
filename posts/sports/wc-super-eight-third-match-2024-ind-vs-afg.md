@@ -26,7 +26,7 @@ Here are the highlights from the third match of the Super Eight stage:
 ### Match details
 - **Date**: June 20, 2024
 - **Venue**: Kensington Oval Barbados Stadium
-- **Toss**: India won the toss and decided to bowl
+- **Toss**: India won the toss and decided to bat
 - **Result**: India won by 47 runs
 
 ### India's Innings:
