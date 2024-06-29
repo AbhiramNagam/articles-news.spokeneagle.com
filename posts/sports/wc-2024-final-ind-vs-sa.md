@@ -5,7 +5,7 @@ draft: false
 cover:
   image: "images/sports/t20-final-ind-vs-sa.jpg"
   alt: "t20-final-ind-vs-sa"
-tags: ["world cup","t20wc","mens cricket","ind vs. sa","india vs. south africa"]
+tags: ["world cup","t20wc","mens cricket","ind vs sa","india vs south africa"]
 categories: ["cricket","sports"]
 showTOC: false
 ---
@@ -22,9 +22,9 @@ The **ICC Men's T20 World Cup** is off to an exhilarating start. And it's time f
 
 ---
 - **India wins a world cup after 13 years.**
-- **India has won the T20 world cup after 17 years**
+- **India has won the T20 world cup after 17 years.**
 - **Rohit is the third Indian captain to win an ICC trophy for India after Kapil dev and MS Dhoni.**
-- **Virat Kohli confirms that this is his last T20I**
+- **Virat Kohli confirms that this is his last T20I.**
 - **Jasprit Bumrah has won the Player of the Tournament award for his exceptional bowling throughout the Tournament.**
 ---
 
@@ -43,8 +43,8 @@ India defeated South Africa by 7 runs.
 - Shivam Dube has scored 27 runs off 16 balls with 3 fours and a six.
 
 - **South Africa's bowling**:
-- Anrich Norje and Keshav mahraj have picked two wickets each in 4 and 3 overs respectively.
-- Marco Jansen and Kagiso Rabada have picked a wicket each.
+  - Anrich Norje and Keshav mahraj have picked two wickets each in 4 and 3 overs respectively.
+  - Marco Jansen and Kagiso Rabada have picked a wicket each.
 
 ### South Arica's Innings
 - South Africa tried their best till the end to win the match but the Indian side dominated with the ball.
@@ -54,17 +54,17 @@ India defeated South Africa by 7 runs.
 - Quinton de Kock and David miller have scored 39 runs and 21 runs respectively.
 
 - **India's bowling**:
-- Hardik Pandya, the Indian all-rounder has picked 3 wickets conceding 20 runs in 3 overs.
-- The Indian pacers, Jasprit Bumrah and Arshdeep Singh have picked 2 wickets each.
+  - Hardik Pandya, the Indian all-rounder has picked 3 wickets conceding 20 runs in 3 overs.
+  - The Indian pacers, Jasprit Bumrah and Arshdeep Singh have picked 2 wickets each.
 
 
-#### Player of the Match
-- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
+>### Player of the Match
+>- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
 
 
 ---
 
-_Stay tuned for more thrilling encounters, stunning performances, and nail-biting finishes throughout the T20 World Cup. Let the games begin!_
+_Stay tuned for more such interesting news updates!_
 - Follow us on **X** : [@SpokenEagleNews](https://x.com/SpokenEagleNews?t=YP2NMSxVIYUbD9VoQukz8g&s=08)
 
 ---
