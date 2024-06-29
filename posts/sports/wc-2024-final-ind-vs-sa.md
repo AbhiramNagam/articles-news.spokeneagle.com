@@ -18,7 +18,7 @@ The **ICC Men's T20 World Cup** is off to an exhilarating start. And it's time f
 
 ---
 
-## Final Match  India vs. South Africa 
+## Final Match:  India vs. South Africa 
 
 ---
 - **India wins a world cup after 13 years.**
@@ -58,8 +58,8 @@ India defeated South Africa by 7 runs.
   - The Indian pacers, Jasprit Bumrah and Arshdeep Singh have picked 2 wickets each.
 
 
->### Player of the Match
->- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
+### Player of the Match
+- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
 
 
 ---
