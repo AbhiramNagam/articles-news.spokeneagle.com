@@ -42,9 +42,9 @@ India defeated South Africa by 7 runs.
 - Axar Patel, the Indian all-rounder has scored 47 runs off 31 balls with a four and 4 sixes at a strike rate of 151.61.
 - Shivam Dube has scored 27 runs off 16 balls with 3 fours and a six.
 
-**South Africa's bowling**:
-- Anrich Norje and Keshav mahraj have picked two wickets each in 4 and 3 overs respectively.
-- Marco Jansen and Kagiso Rabada have picked a wicket each.
+- **South Africa's bowling**:
+  - Anrich Norje and Keshav mahraj have picked two wickets each in 4 and 3 overs respectively.
+  - Marco Jansen and Kagiso Rabada have picked a wicket each.
 
 ### South Arica's Innings
 - South Africa tried their best till the end to win the match but the Indian side dominated with the ball.
@@ -53,13 +53,13 @@ India defeated South Africa by 7 runs.
 - Tristan stubbs has scored 31 runs off 21 balls with 3 fours and a six at a strike rate of 147.62.
 - Quinton de Kock and David miller have scored 39 runs and 21 runs respectively.
 
-**India's bowling**:
-- Hardik Pandya, the Indian all-rounder has picked 3 wickets conceding 20 runs in 3 overs.
-- The Indian pacers, Jasprit Bumrah and Arshdeep Singh have picked 2 wickets each.
+- **India's bowling**:
+  - Hardik Pandya, the Indian all-rounder has picked 3 wickets conceding 20 runs in 3 overs.
+  - The Indian pacers, Jasprit Bumrah and Arshdeep Singh have picked 2 wickets each.
 
 
-### Player of the Match
-- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
+>### Player of the Match
+>- Virat Kohli has won the Player of the Match award for his exceptional batting in the final.
 
 
 ---
