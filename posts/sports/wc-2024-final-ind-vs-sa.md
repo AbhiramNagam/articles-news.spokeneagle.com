@@ -24,7 +24,7 @@ The **ICC Men's T20 World Cup** is off to an exhilarating start. And it's time f
 - **India wins a world cup after 13 years.**
 - **India has won the T20 world cup after 17 years.**
 - **Rohit is the third Indian captain to win an ICC trophy for India after Kapil dev and MS Dhoni.**
-- **Virat Kohli confirms that this is his last T20I.**
+- **Rohit and Virat confirms that, this is their last T20I.**
 - **Jasprit Bumrah has won the Player of the Tournament award for his exceptional bowling throughout the Tournament.**
 ---
 
