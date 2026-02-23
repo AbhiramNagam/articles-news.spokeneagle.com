@@ -3,7 +3,7 @@ title: "IRM Energy Q3 FY26 Results: PAT Jumps 38%, CNG Volumes Surge 21%"
 date: 2026-02-04T00:10:00+05:30
 draft: false
 cover:
-  image: "https://images.pexels.com/photos/23878948/pexels-photo-23878948.jpeg"
+  image: "/images/economics/orders/cng-template.jpeg"
   alt: "City gas distribution and CNG station in India"
 tags:
   ["IRM Energy","Q3 Results","FY26","CNG","PNG","Indian Stock Market","NSE","BSE"]
