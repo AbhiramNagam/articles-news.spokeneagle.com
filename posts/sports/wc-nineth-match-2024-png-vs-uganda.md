@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: Papua New Guinea vs. Uganda highlights"
 date: 2024-06-06T10:15:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-png-vs-uganda.png"
   alt: "t20-png-vs-uganda"

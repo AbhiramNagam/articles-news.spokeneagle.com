@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: West Indies vs. Papua New Guinea highlights"
 date: 2024-06-03T19:45:32+05:30
-draft: false
+draft: true
 cover:
     image: "images/sports/t20-wi-vs-png.jpg"
     alt: "t20-wi-vs-png"

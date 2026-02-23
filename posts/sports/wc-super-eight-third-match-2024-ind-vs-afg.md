@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: India vs. Afghanistan Highlights"
 date: 2024-06-21T00:15:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ind-vs-afg.jpg"
   alt: "t20-ind-vs-afg"

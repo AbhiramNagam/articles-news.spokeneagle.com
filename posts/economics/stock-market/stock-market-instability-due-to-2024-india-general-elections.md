@@ -1,7 +1,7 @@
 ---
 title:  "Here's How 2024 Indian General Elections Impacted Stock Market"
 date: 2024-06-07T13:25:32+05:30
-draft: false
+draft: true
 cover:
   image: "https://cdn.pixabay.com/photo/2016/10/10/22/38/business-1730089_1280.jpg"
   alt: "Stock-market"

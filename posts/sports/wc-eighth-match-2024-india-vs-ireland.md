@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: India vs. Ireland highlights"
 date: 2024-06-05T23:00:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ind-vs-ire.jpg"
   alt: "t20-ind-vs-ire"

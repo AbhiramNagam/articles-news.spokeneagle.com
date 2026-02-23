@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: India vs. Bangladesh Highlights"
 date: 2024-06-23T06:20:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ind-vs-ban.jpg"
   alt: "t20-ind-vs-ban"

@@ -1,7 +1,7 @@
 ---
 title:  "Moto Edge 50 Ultra : The new gen Flagship?"
 date: 2024-06-19T19:40:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/products/moto-edge50-ultra.jpg"
   alt: "moto-edge50-ultra"

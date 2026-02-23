@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: Bangladesh vs. Netherlands Highlights"
 date: 2024-06-14T07:00:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ban-vs-ned.jpg"
   alt: "t20-ban-vs-ned"

@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: Sri Lanka vs. South africa highlights"
 date: 2024-06-04T10:25:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-sl-vs-sa.jpg"
   alt: "t20-sl-vs-sa"

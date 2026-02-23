@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: India vs. Pakistan Highlights"
 date: 2024-06-10T09:05:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ind-vs-pak.jpg"
   alt: "t20-ind-vs-pak"

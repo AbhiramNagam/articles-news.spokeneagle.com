@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: India vs. USA Highlights"
 date: 2024-06-13T07:00:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-ind-vs-usa.jpg"
   alt: "t20-ind-vs-usa"

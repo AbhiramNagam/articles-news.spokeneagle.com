@@ -1,7 +1,7 @@
 ---
 title: "Suzlon Won An Order Of 81.9MW From Oyster Green Pvt Ltd"
 date: 2024-06-02T18:46:06+05:30
-draft: false
+draft: true
 cover:
     image:  "/images/economics/orders/suzlon-windmill.jpg"
     alt:    "Suzlon windmill"

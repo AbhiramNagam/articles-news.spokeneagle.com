@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: Canada vs. Ireland"
 date: 2024-06-08T09:25:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-can-vs-ire.jpg"
   alt: "t20-canada-vs-ire"

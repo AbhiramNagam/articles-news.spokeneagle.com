@@ -1,7 +1,7 @@
 ---
 title: "Google Announces Fitbit Ace LTE"
 date: 2024-06-01T23:54:06+05:30
-draft: false
+draft: true
 cover:
     image:  "/images/products/fitbit1.jpg"
     alt:    "Fitbit image"

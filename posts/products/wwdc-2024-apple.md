@@ -1,7 +1,7 @@
 ---
 title:  "Apple's WWDC 2024 Highlights"
 date: 2024-06-11T14:00:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/products/wwdc-2024-apple.jpg"
   alt: "wwdc-2024-apple"

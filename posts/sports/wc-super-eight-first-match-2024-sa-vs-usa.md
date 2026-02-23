@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: South Africa vs. USA Highlights"
 date: 2024-06-20T07:20:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-sa-vs-usa.jpg"
   alt: "t20-sa-vs-usa"

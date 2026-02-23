@@ -1,7 +1,7 @@
 ---
 title:  "Kylian Mbappe Joins Real Madrid on Five-Year Deal, Departing Paris Saint-Germain"
 date: 2024-06-05T18:25:32+05:30
-draft: false
+draft: true
 cover:
   image: "https://cdn.pixabay.com/photo/2022/06/08/10/00/kylian-mbappe-7250181_1280.jpg"
   alt: "image-Mbappe"

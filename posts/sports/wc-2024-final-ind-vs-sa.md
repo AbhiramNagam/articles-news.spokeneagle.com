@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup Final: India vs. South Africa Highlights"
 date: 2024-06-29T23:59:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-final-ind-vs-sa.jpg"
   alt: "t20-final-ind-vs-sa"

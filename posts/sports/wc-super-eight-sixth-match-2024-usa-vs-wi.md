@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: USA vs. West Indies Highlights"
 date: 2024-06-22T10:20:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-usa-vs-wi.jpg"
   alt: "t20-usa-vs-wi"

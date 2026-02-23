@@ -1,7 +1,7 @@
 ---
 title:  "ICC Men's T20 World Cup: USA vs Pakistan highlights"
 date: 2024-06-07T09:25:32+05:30
-draft: false
+draft: true
 cover:
   image: "images/sports/t20-pak-vs-usa.jpg"
   alt: "t20-pak-vs-usa"
